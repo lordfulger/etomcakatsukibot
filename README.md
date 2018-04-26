@@ -2,7 +2,7 @@
 
 
 * [Discord server](https://discord.gg/W9MfSjA)
-* [Commands](https://just-some-bots.github.io/MusicBot/#guidescommands "Commands").
+* [Commands](https://just-some-bots.github.io/MusicBot/#guidescommands "Commands")
 
 
 Akatsuki ETO MC is the official Discord music bot .
