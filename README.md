@@ -1,10 +1,10 @@
 # etoakatsukibot
 
 
-* [Support Discord server](https://discord.gg/W9MfSjA)
+* [Discord server](https://discord.gg/W9MfSjA)
 
 
-etoakatsukibot is the official Discord music bot .
+Akatsuki ETO MC is the official Discord music bot .
 
 ![Main](https://images5.alphacoders.com/514/thumb-1920-514758.jpg)
 
