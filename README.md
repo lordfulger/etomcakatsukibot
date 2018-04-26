@@ -1,7 +1,7 @@
 # etoakatsukibot
 
 
-[![Discord](https://discordapp.com/api/guilds/372001222858768394/widget.json?style=shield)](https://discord.gg/bots)
+[![Discord](https://discordapp.com/api/guilds/372001222858768394/widget.json?style=shield)](https://discord.gg/W9MfSjA)
 
 
 etoakatsukibot is the official Discord music bot .
@@ -19,5 +19,5 @@ There are many commands that can be used with the bot. Most notably, the `play <
 
 ### Further reading
 
-* [Support Discord server](https://discord.gg/bots)
+* [Support Discord server](https://discord.gg/W9MfSjA)
 * [Project license](LICENSE)
