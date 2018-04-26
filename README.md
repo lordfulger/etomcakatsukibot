@@ -1,7 +1,7 @@
 # etoakatsukibot
 
 
-[![Discord](https://discordapp.com/api/guilds/372001222858768394/widget.json?style=shield)](https://discord.gg/W9MfSjA)
+* [Support Discord server](https://discordapp.com/api/guilds/372001222858768394/widget.json?style=shield)](https://discord.gg/W9MfSjA)
 
 
 etoakatsukibot is the official Discord music bot .
@@ -13,7 +13,3 @@ etoakatsukibot is the official Discord music bot .
 
 (https://just-some-bots.github.io/MusicBot/#guidescommands "Commands").
 
-### Further reading
-
-* [Support Discord server](https://discord.gg/W9MfSjA)
-* [Project license](LICENSE)
