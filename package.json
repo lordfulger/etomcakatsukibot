@@ -1,0 +1,13 @@
+{
+  "name": "Akatsuki Bot",
+  "description": "The Music Bot for the Elder Tales Online MC Server.",
+  "version": "0.0.0",
+  "main": "etomcakatsukibot.js",
+  "scripts": {
+    "start": "python etomcakatsukibot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
