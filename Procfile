@@ -1,1 +1,1 @@
-worker: python etomcakatsukibot.js
+worker: python etomcakatsukibot.py
